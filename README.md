@@ -1,5 +1,7 @@
 # ngmaster --- In silico multi-antigen sequence typing for Neisseria gonorrhoeae (NG-MAST)
 
+(https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/579)
+
 Singularity container for Jason Kwong's [NGMASTER](https://github.com/MDU-PHL/ngmaster)
 
 ## Pre-requisite
